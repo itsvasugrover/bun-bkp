@@ -1,5 +1,8 @@
 # @vasugrover/bun-bkp
 
+> [!WARNING]
+> **This repository is now archived and read-only.** It is no longer actively maintained — no further commits, issues, or pull requests will be accepted. The code remains available for reference.
+
 A modular backup and restore service for Bun applications. Built to integrate with Cloudflare R2 storage, it provides database export and import workflows with AES-256-CBC encryption, structured logging via Pino, and a flexible adapter pattern for supporting different database clients.
 
 ---
@@ -327,3 +330,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Support
 
 For questions or support, please open an issue on the GitHub repository.
+
+---
+
+**Status**: ⚠️ No longer maintained — this repository has been archived and is read-only. The npm package `@vasugrover/bun-bkp` is deprecated.
